@@ -1,1 +1,5 @@
-class ChangeDatatypeForBirthdate < ActiveRecord
+class ChangeDatatypeForBirthdate < ActiveRecords[5.2]
+  def change 
+    change_column()
+  end
+end
