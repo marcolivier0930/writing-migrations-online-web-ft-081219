@@ -1,1 +1,1 @@
-class ChangeDatatypeForBirthdate < Activere
+class ChangeDatatypeForBirthdate < ActiveRecord
